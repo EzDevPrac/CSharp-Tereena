@@ -6,6 +6,7 @@ script:
  - dotnet restore
 stages:
   - compile
+  - test
   - deploy
 jobs:
   include:
