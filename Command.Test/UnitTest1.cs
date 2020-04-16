@@ -1,5 +1,5 @@
 using System;
-using CommandDesign;
+//using CommandDesign;
 using Xunit;
 
 namespace Command.Test
