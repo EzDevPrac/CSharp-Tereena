@@ -10,6 +10,8 @@ stages:
 jobs:
   include:
     - stage: compile
-       script: skip    
+       script: skip 
+    - stage: test
+       script: skip
     - stage: deploy
        script: skip
