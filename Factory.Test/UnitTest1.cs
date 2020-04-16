@@ -11,17 +11,17 @@ namespace Factory.Test
         {
            var fact = new MoneyBackFactory(50000, 0);
             CreditCard card = fact.GetCreditCard();
-            //string expected1 = card.CardType;
-            //int expected2 = card.CreditLimit;
-            //int expected3 = card.AnnualCharge;
-            //string actual1 = "MoneyBack";
-            //int actual2 = 50000;
-            //int actual3 = 0;
+            string expected1 = card.CardType;
+            int expected2 = card.CreditLimit;
+            int expected3 = card.AnnualCharge;
+            string actual1 = "MoneyBack";
+            int actual2 = 50000;
+            int actual3 = 0;
 
             //Assert  
-            Assert.Equal(card.CardType, "MoneyBack");
-            Assert.Equal(card.CreditLimit, 50000);
-            Assert.Equal(card.AnnualCharge, 0);
+            Assert.Equal(expected1, actual1);
+            Assert.Equal(expected2, actual2);
+            Assert.Equal(expected3, actual3);
         }
 
         [Fact]
@@ -30,17 +30,17 @@ namespace Factory.Test
             TitaniumFactory fact;
              fact = new TitaniumFactory(100000, 500);
             CreditCard card = fact.GetCreditCard();
-            //string expected1 = card.CardType;
-            //int expected2 = card.CreditLimit;
-            //int expected3 = card.AnnualCharge;
-            //string actual1 = "MoneyBack";
-            //int actual2 = 50000;
-            //int actual3 = 0;
+            string expected1 = card.CardType;
+            int expected2 = card.CreditLimit;
+            int expected3 = card.AnnualCharge;
+            string actual1 = "MoneyBack";
+            int actual2 = 100000;
+            int actual3 = 500;
 
             //Assert  
-            Assert.Equal(card.CardType, "Titanium");
-            Assert.Equal(card.CreditLimit, 100000);
-            Assert.Equal(card.AnnualCharge, 500);
+            Assert.Equal(expected1, actual1);
+            Assert.Equal(expected2, actual2);
+            Assert.Equal(expected3, actual3);
         }
 
         [Fact]
@@ -49,17 +49,17 @@ namespace Factory.Test
             PlatinumFactory fact;
             fact = new PlatinumFactory(500000,1000);
             CreditCard card = fact.GetCreditCard();
-            //string expected1 = card.CardType;
-            //int expected2 = card.CreditLimit;
-            //int expected3 = card.AnnualCharge;
-            //string actual1 = "MoneyBack";
-            //int actual2 = 50000;
-            //int actual3 = 0;
+            string expected1 = card.CardType;
+            int expected2 = card.CreditLimit;
+            int expected3 = card.AnnualCharge;
+            string actual1 = "MoneyBack";
+            int actual2 = 500000;
+            int actual3 = 1000;
 
             //Assert  
-            Assert.Equal(card.CardType, "Platinum");
-            Assert.Equal(card.CreditLimit, 500000);
-            Assert.Equal(card.AnnualCharge, 1000);
+            Assert.Equal(expected1, actual1);
+            Assert.Equal(expected2, actual2);
+            Assert.Equal(expected3, actual3);
         }
 
         }
