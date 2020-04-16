@@ -9,7 +9,6 @@ namespace Command.Test
         [Fact]
         public void Test1()
         {
-            Console.WriteLine("Hello");
             /*Light lamp = new Light();
             ICommand switchUp = new FlipUpCommand(lamp);
             Switch s = new Switch();
