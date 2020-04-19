@@ -93,3 +93,7 @@ C:\Users\manoj\source\repos\CSharp\Command.Test\obj\Debug\netcoreapp3.1\Command.
 C:\Users\manoj\source\repos\CSharp\Command.Test\obj\Debug\netcoreapp3.1\Command.Test.dll
 C:\Users\manoj\source\repos\CSharp\Command.Test\obj\Debug\netcoreapp3.1\Command.Test.pdb
 C:\Users\manoj\source\repos\CSharp\Command.Test\obj\Debug\netcoreapp3.1\Command.Test.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\Command.Test\bin\Debug\netcoreapp3.1\CommandDesign.exe
+C:\Users\manoj\source\repos\CSharp\Command.Test\bin\Debug\netcoreapp3.1\CommandDesign.dll
+C:\Users\manoj\source\repos\CSharp\Command.Test\bin\Debug\netcoreapp3.1\CommandDesign.pdb
+C:\Users\manoj\source\repos\CSharp\Command.Test\obj\Debug\netcoreapp3.1\Command.Test.csprojAssemblyReference.cache
