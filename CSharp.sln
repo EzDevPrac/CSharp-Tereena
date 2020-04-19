@@ -15,22 +15,26 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderDesign", "BuilderDes
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommandPattern", "CommandPattern", "{EC7F539A-FCF9-4037-AEF3-FBDF463E9D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesign", "CommandDesign\CommandDesign.csproj", "{334CE100-5CEA-43D2-9695-4555124D7898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandDesign", "CommandDesign\CommandDesign.csproj", "{334CE100-5CEA-43D2-9695-4555124D7898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory.Test", "Factory.Test\Factory.Test.csproj", "{F66DF89D-C1D1-44EA-AABF-3AA3AA75DE29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory.Test", "Factory.Test\Factory.Test.csproj", "{F66DF89D-C1D1-44EA-AABF-3AA3AA75DE29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Test", "Builder.Test\Builder.Test.csproj", "{2D886954-786C-4D78-8EE7-5922B793FFBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder.Test", "Builder.Test\Builder.Test.csproj", "{2D886954-786C-4D78-8EE7-5922B793FFBF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DFD86DCF-3B73-4FED-A37E-0F63D77DC050}"
 	ProjectSection(SolutionItems) = preProject
 		.travis.yml = .travis.yml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command.Test", "Command.Test\Command.Test.csproj", "{A69A4DBA-AE2A-4645-9757-D7E39A85AACB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command.Test", "Command.Test\Command.Test.csproj", "{A69A4DBA-AE2A-4645-9757-D7E39A85AACB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp_Puzzle", "CSharp_Puzzle", "{58C60832-FDA9-43B9-A361-771E6FB7C3EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic1", "Logic1\Logic1.csproj", "{725BA39E-4941-42DF-91B9-23D0BBB44FEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic1", "Logic1\Logic1.csproj", "{725BA39E-4941-42DF-91B9-23D0BBB44FEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PuzzleInDesignPattern", "PuzzleInDesignPattern", "{B82E0EDA-643D-4EFE-A894-8A7910C973A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleInFactoryPattern", "PuzzleInFactoryPattern\PuzzleInFactoryPattern.csproj", "{5C995C1F-A4C7-4C1D-8ABC-0FF0E2AAABA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,6 +74,10 @@ Global
 		{725BA39E-4941-42DF-91B9-23D0BBB44FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{725BA39E-4941-42DF-91B9-23D0BBB44FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{725BA39E-4941-42DF-91B9-23D0BBB44FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C995C1F-A4C7-4C1D-8ABC-0FF0E2AAABA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C995C1F-A4C7-4C1D-8ABC-0FF0E2AAABA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C995C1F-A4C7-4C1D-8ABC-0FF0E2AAABA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C995C1F-A4C7-4C1D-8ABC-0FF0E2AAABA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -82,6 +90,7 @@ Global
 		{2D886954-786C-4D78-8EE7-5922B793FFBF} = {3B13CA6B-7848-45E3-A293-B3DFAF872F8A}
 		{A69A4DBA-AE2A-4645-9757-D7E39A85AACB} = {EC7F539A-FCF9-4037-AEF3-FBDF463E9D50}
 		{725BA39E-4941-42DF-91B9-23D0BBB44FEC} = {58C60832-FDA9-43B9-A361-771E6FB7C3EB}
+		{5C995C1F-A4C7-4C1D-8ABC-0FF0E2AAABA1} = {B82E0EDA-643D-4EFE-A894-8A7910C973A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40A0BE0D-B803-419B-9712-5EB4C873FE20}
