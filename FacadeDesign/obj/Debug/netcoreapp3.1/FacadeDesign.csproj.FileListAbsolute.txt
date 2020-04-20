@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\bin\Debug\netcoreapp3.1\FacadeDesign.exe
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\bin\Debug\netcoreapp3.1\FacadeDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\bin\Debug\netcoreapp3.1\FacadeDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\bin\Debug\netcoreapp3.1\FacadeDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\bin\Debug\netcoreapp3.1\FacadeDesign.dll
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\bin\Debug\netcoreapp3.1\FacadeDesign.pdb
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.dll
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.pdb
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.genruntimeconfig.cache
