@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/tereena99/Csharp/_apis/build/status/EzDevPrac.CSharp-Tereena?branchName=master)](https://dev.azure.com/tereena99/Csharp/_build/latest?definitionId=4&branchName=master)
+
 # CsharpConcepts
 
 **DESIGN PATTERNS**

@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\bin\Debug\netcoreapp3.1\PuzzleInFacadePattern.exe
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\bin\Debug\netcoreapp3.1\PuzzleInFacadePattern.deps.json
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\bin\Debug\netcoreapp3.1\PuzzleInFacadePattern.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\bin\Debug\netcoreapp3.1\PuzzleInFacadePattern.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\bin\Debug\netcoreapp3.1\PuzzleInFacadePattern.dll
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\bin\Debug\netcoreapp3.1\PuzzleInFacadePattern.pdb
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.dll
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.pdb
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.genruntimeconfig.cache
