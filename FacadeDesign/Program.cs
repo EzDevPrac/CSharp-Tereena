@@ -4,20 +4,22 @@ namespace FacadeDesign
 {
         public interface IPizza
         {
-            void GetVegPizza();
-            void GetNonVegPizza();
+            String GetVegPizza();
+            String GetNonVegPizza();
         }
 
         public class PizzaProvider : IPizza
         {
-            public void GetNonVegPizza()
+            public String GetNonVegPizza()
             {
                 GetNonVegToppings();
                 Console.WriteLine("Getting Non Veg Pizza.");
+                return "Getting Non Veg Pizza.";
             }
-            public void GetVegPizza()
+            public String GetVegPizza()
             {
                 Console.WriteLine("Getting Veg Pizza.");
+                return "Getting Veg Pizza.";
             }
             private void GetNonVegToppings()
             {
@@ -27,20 +29,22 @@ namespace FacadeDesign
 
         public interface IBread
         {
-            void GetGarlicBread();
-            void GetCheesyGarlicBread();
+            String GetGarlicBread();
+            String GetCheesyGarlicBread();
         }
 
         public class BreadProvider : IBread
         {
-            public void GetGarlicBread()
+            public String GetGarlicBread()
             {
                 Console.WriteLine("Getting Garlic Bread.");
+                return "Getting Garlic Bread.";
             }
-            public void GetCheesyGarlicBread()
+            public String GetCheesyGarlicBread()
             {
                 GetCheese();
                 Console.WriteLine("Getting Cheesy Garlic Bread.");
+                return "Getting Cheesy Garlic Bread.";
             }
             private void GetCheese()
             {
@@ -57,22 +61,30 @@ namespace FacadeDesign
                 _PizzaProvider = new PizzaProvider();
                 _BreadProvider = new BreadProvider();
             }
-            public void GetNonVegPizza()
+            public string GetNonVegPizza()
             {
-                _PizzaProvider.GetNonVegPizza();
+                String str=_PizzaProvider.GetNonVegPizza();
+                //Console.WriteLine(str);
+                return str;
             }
-            public void GetVegPizza()
+            public String GetVegPizza()
             {
-                _PizzaProvider.GetVegPizza();
-            }
-            public void GetGarlicBread()
+               String str= _PizzaProvider.GetVegPizza();
+               //Console.WriteLine(str);
+               return str;
+        }
+            public String GetGarlicBread()
             {
-                _BreadProvider.GetGarlicBread();
-            }
-            public void GetCheesyGarlicBread()
+                String str=_BreadProvider.GetGarlicBread();
+                //Console.WriteLine(str);
+                return str;
+        }
+            public String GetCheesyGarlicBread()
             {
-                _BreadProvider.GetCheesyGarlicBread();
-            }
+                String str=_BreadProvider.GetCheesyGarlicBread();
+                //Console.WriteLine(str);
+                return str;
+        }
 
         public class Program
         {

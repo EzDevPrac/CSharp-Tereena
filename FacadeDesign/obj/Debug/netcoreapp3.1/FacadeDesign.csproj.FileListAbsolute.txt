@@ -10,3 +10,4 @@ C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDe
 C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.dll
 C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.pdb
 C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\FacadeDesign\obj\Debug\netcoreapp3.1\FacadeDesign.csprojAssemblyReference.cache

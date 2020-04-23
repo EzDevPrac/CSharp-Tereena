@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\bin\Debug\netcoreapp3.1\SingletonDesign.exe
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\bin\Debug\netcoreapp3.1\SingletonDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\bin\Debug\netcoreapp3.1\SingletonDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\bin\Debug\netcoreapp3.1\SingletonDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\bin\Debug\netcoreapp3.1\SingletonDesign.dll
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\bin\Debug\netcoreapp3.1\SingletonDesign.pdb
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\obj\Debug\netcoreapp3.1\SingletonDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\obj\Debug\netcoreapp3.1\SingletonDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\obj\Debug\netcoreapp3.1\SingletonDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\obj\Debug\netcoreapp3.1\SingletonDesign.dll
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\obj\Debug\netcoreapp3.1\SingletonDesign.pdb
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\obj\Debug\netcoreapp3.1\SingletonDesign.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\SingletonDesign\obj\Debug\netcoreapp3.1\SingletonDesign.csprojAssemblyReference.cache
