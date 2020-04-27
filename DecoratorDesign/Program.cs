@@ -72,7 +72,7 @@ namespace DecoratorDesign
             //Create Suzuki instance.
             ICar car = new Suzuki();
 
-            //Wrap Suzuki instance with OfferPrice.   
+            //Wrp Suzuki instance with OfferPrice.   
             CarDecorator decorator = new OfferPrice(car);
 
             Console.WriteLine(string.Format("Make :{0}  Price:{1}" +  " DiscountPrice:{2}", decorator.Make, decorator.GetPrice(), decorator.GetDiscountedPrice()));
