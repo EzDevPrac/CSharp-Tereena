@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\bin\Debug\netcoreapp3.1\EagerLoadingSingleton.exe
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\bin\Debug\netcoreapp3.1\EagerLoadingSingleton.deps.json
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\bin\Debug\netcoreapp3.1\EagerLoadingSingleton.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\bin\Debug\netcoreapp3.1\EagerLoadingSingleton.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\bin\Debug\netcoreapp3.1\EagerLoadingSingleton.dll
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\bin\Debug\netcoreapp3.1\EagerLoadingSingleton.pdb
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\obj\Debug\netcoreapp3.1\EagerLoadingSingleton.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\obj\Debug\netcoreapp3.1\EagerLoadingSingleton.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\obj\Debug\netcoreapp3.1\EagerLoadingSingleton.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\obj\Debug\netcoreapp3.1\EagerLoadingSingleton.dll
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\obj\Debug\netcoreapp3.1\EagerLoadingSingleton.pdb
+C:\Users\manoj\source\repos\CSharp\EagerLoadingSingleton\obj\Debug\netcoreapp3.1\EagerLoadingSingleton.genruntimeconfig.cache

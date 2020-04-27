@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SingletonDesign
+namespace NoThreadSafeSingletonDesign
 {
     class Program
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4GiA3CxZvB9RV0YHnBLZcDXioI+UZHexVLxi292dLeLFPsRbWp4yY8/LgS7vGD3gCexER7vTAquXZDuY4dAJeQ==",
+  "dgSpecHash": "OSdOHjti9u1S857B5pCHdLnfWgcH7r69S61o+BcHYdOWqmjsyLg21B6ETXFbVxAs/oA3OYvJg9sPo7qsbh/A6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\manoj\\source\\repos\\CSharp\\SingletonDesign\\SingletonDesign.csproj",
+  "projectFilePath": "C:\\Users\\manoj\\source\\repos\\CSharp\\SingletonDesign\\NoThreadSafeSingletonDesign.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

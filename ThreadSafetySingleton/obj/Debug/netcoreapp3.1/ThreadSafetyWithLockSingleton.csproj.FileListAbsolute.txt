@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\bin\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.exe
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\bin\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.deps.json
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\bin\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\bin\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\bin\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.dll
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\bin\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.pdb
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\obj\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\obj\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\obj\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\obj\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\obj\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.dll
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\obj\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.pdb
+C:\Users\manoj\source\repos\CSharp\ThreadSafetySingleton\obj\Debug\netcoreapp3.1\ThreadSafetyWithLockSingleton.genruntimeconfig.cache

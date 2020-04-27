@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\bin\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.exe
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\bin\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.deps.json
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\bin\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\bin\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\bin\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.dll
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\bin\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.pdb
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.dll
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.pdb
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.genruntimeconfig.cache

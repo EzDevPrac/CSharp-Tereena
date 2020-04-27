@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manoj\\source\\repos\\CSharp\\SingletonDesign\\SingletonDesign.csproj",
-      "projectName": "SingletonDesign",
-      "projectPath": "C:\\Users\\manoj\\source\\repos\\CSharp\\SingletonDesign\\SingletonDesign.csproj",
+      "projectUniqueName": "C:\\Users\\manoj\\source\\repos\\CSharp\\SingletonDesign\\NoThreadSafeSingletonDesign.csproj",
+      "projectName": "NoThreadSafeSingletonDesign",
+      "projectPath": "C:\\Users\\manoj\\source\\repos\\CSharp\\SingletonDesign\\NoThreadSafeSingletonDesign.csproj",
       "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\manoj\\source\\repos\\CSharp\\SingletonDesign\\obj\\",
       "projectStyle": "PackageReference",

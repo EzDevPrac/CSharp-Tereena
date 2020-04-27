@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EagerLoadingSingleton/1.0.0": {
+        "runtime": {
+          "EagerLoadingSingleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EagerLoadingSingleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
