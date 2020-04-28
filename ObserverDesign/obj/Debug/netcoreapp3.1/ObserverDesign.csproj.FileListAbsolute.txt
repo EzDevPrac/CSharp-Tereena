@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\bin\Debug\netcoreapp3.1\ObserverDesign.exe
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\bin\Debug\netcoreapp3.1\ObserverDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\bin\Debug\netcoreapp3.1\ObserverDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\bin\Debug\netcoreapp3.1\ObserverDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\bin\Debug\netcoreapp3.1\ObserverDesign.dll
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\bin\Debug\netcoreapp3.1\ObserverDesign.pdb
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\obj\Debug\netcoreapp3.1\ObserverDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\obj\Debug\netcoreapp3.1\ObserverDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\obj\Debug\netcoreapp3.1\ObserverDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\obj\Debug\netcoreapp3.1\ObserverDesign.dll
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\obj\Debug\netcoreapp3.1\ObserverDesign.pdb
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\obj\Debug\netcoreapp3.1\ObserverDesign.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\ObserverDesign\obj\Debug\netcoreapp3.1\ObserverDesign.csprojAssemblyReference.cache
