@@ -25,7 +25,7 @@ namespace ObserverDesign
             set
             {
                 // Just to make sure that if there is an increase in inventory then only we are notifying the observers.
-               if (value > _int)
+                if (value > _int)
                     Notify();
                 _int = value;
             }
