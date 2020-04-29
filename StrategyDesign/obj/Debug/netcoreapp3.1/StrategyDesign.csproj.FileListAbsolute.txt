@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.exe
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.dll
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\bin\Debug\netcoreapp3.1\StrategyDesign.pdb
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.dll
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.pdb
+C:\Users\manoj\source\repos\CSharp\StrategyDesign\obj\Debug\netcoreapp3.1\StrategyDesign.genruntimeconfig.cache

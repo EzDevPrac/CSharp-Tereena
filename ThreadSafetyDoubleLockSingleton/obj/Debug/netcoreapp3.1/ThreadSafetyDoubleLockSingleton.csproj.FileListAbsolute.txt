@@ -10,3 +10,4 @@ C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\net
 C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.dll
 C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.pdb
 C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\ThreadSafetyDoubleLockSingleton\obj\Debug\netcoreapp3.1\ThreadSafetyDoubleLockSingleton.csprojAssemblyReference.cache

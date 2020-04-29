@@ -14,6 +14,7 @@ namespace DecoratorDesign.Test
             string actual = decorator.Make;
             string expected = car.Make;
             Assert.Equal(expected,actual);
+            Assert.Equal(car.GetPrice(), decorator.GetPrice());
         }
     }
 }

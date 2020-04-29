@@ -10,3 +10,4 @@ C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1
 C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.dll
 C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.pdb
 C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\PuzzleInFacadePattern\obj\Debug\netcoreapp3.1\PuzzleInFacadePattern.csprojAssemblyReference.cache
