@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\bin\Debug\netcoreapp3.1\IteratorDesign.exe
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\bin\Debug\netcoreapp3.1\IteratorDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\bin\Debug\netcoreapp3.1\IteratorDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\bin\Debug\netcoreapp3.1\IteratorDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\bin\Debug\netcoreapp3.1\IteratorDesign.dll
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\bin\Debug\netcoreapp3.1\IteratorDesign.pdb
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\obj\Debug\netcoreapp3.1\IteratorDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\obj\Debug\netcoreapp3.1\IteratorDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\obj\Debug\netcoreapp3.1\IteratorDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\obj\Debug\netcoreapp3.1\IteratorDesign.dll
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\obj\Debug\netcoreapp3.1\IteratorDesign.pdb
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\obj\Debug\netcoreapp3.1\IteratorDesign.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\IteratorDesign\obj\Debug\netcoreapp3.1\IteratorDesign.csprojAssemblyReference.cache

@@ -8,7 +8,7 @@ namespace Builder.Test
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void HeroGetVehicle_ShouldReturn_HeroProperties()
         {
             var build = new HeroBuilder();
             var value = new VehicleCreator(build);
@@ -25,7 +25,7 @@ namespace Builder.Test
         }
 
         [Fact]
-        public void Test2()
+        public void HondaGetVehicle_ShouldReturn_HondaProperties()
         {
             var build = new HondaBuilder();
             var value = new VehicleCreator(build);

@@ -7,7 +7,7 @@ namespace Command.Test
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void LightTurnOn_ShouldReturn_TheLightIsOn()
         {
             Light lamp = new Light();
             String actual = lamp.TurnOn();
@@ -16,7 +16,7 @@ namespace Command.Test
         }
 
         [Fact]
-        public void Test2()
+        public void LightTurnOff_ShouldReturn_TheLightIsOff()
         {
             Light lamp = new Light();
             String actual = lamp.TurnOff();

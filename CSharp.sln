@@ -52,31 +52,37 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingletonPattern", "Singlet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoThreadSafeSingletonDesign", "SingletonDesign\NoThreadSafeSingletonDesign.csproj", "{6B4F158F-B0AF-4489-B7BB-3CFFDED361D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafetyWithLockSingleton", "ThreadSafetySingleton\ThreadSafetyWithLockSingleton.csproj", "{57DF98CE-6CFA-466C-B5BB-FBC02C82356E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSafetyWithLockSingleton", "ThreadSafetySingleton\ThreadSafetyWithLockSingleton.csproj", "{57DF98CE-6CFA-466C-B5BB-FBC02C82356E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafetyDoubleLockSingleton", "ThreadSafetyDoubleLockSingleton\ThreadSafetyDoubleLockSingleton.csproj", "{C446BE9F-F2CC-40B0-A83F-B4FD71F62519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSafetyDoubleLockSingleton", "ThreadSafetyDoubleLockSingleton\ThreadSafetyDoubleLockSingleton.csproj", "{C446BE9F-F2CC-40B0-A83F-B4FD71F62519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EagerLoadingSingleton", "EagerLoadingSingleton\EagerLoadingSingleton.csproj", "{3062E324-988C-47D6-B02A-F9AEDFDA117E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EagerLoadingSingleton", "EagerLoadingSingleton\EagerLoadingSingleton.csproj", "{3062E324-988C-47D6-B02A-F9AEDFDA117E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DecoratorPattern", "DecoratorPattern", "{FB83A033-5097-463C-8039-BCD2061FE238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorDesign", "DecoratorDesign\DecoratorDesign.csproj", "{3180FA5E-B185-4523-9BCF-C0556C769FC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorDesign", "DecoratorDesign\DecoratorDesign.csproj", "{3180FA5E-B185-4523-9BCF-C0556C769FC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesign.Test", "Singleton.Test\SingletonDesign.Test.csproj", "{FF887CAC-B746-4E6F-9996-5788FEA05A85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesign.Test", "Singleton.Test\SingletonDesign.Test.csproj", "{FF887CAC-B746-4E6F-9996-5788FEA05A85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorDesign.Test", "DecoratorDesign.Test\DecoratorDesign.Test.csproj", "{AE4222D1-BAA4-48B0-8D4F-68B366EDA87F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorDesign.Test", "DecoratorDesign.Test\DecoratorDesign.Test.csproj", "{AE4222D1-BAA4-48B0-8D4F-68B366EDA87F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObserverPattern", "ObserverPattern", "{DD43AFA7-1412-4BFD-A6C9-87262B32760D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDesign", "ObserverDesign\ObserverDesign.csproj", "{2D8D84D7-50F2-47B8-9974-27BE6C531AC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverDesign", "ObserverDesign\ObserverDesign.csproj", "{2D8D84D7-50F2-47B8-9974-27BE6C531AC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDesign.Test", "ObserverDesign.Test\ObserverDesign.Test.csproj", "{3BE32D1F-4F58-4E20-B57F-1ECB73408524}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverDesign.Test", "ObserverDesign.Test\ObserverDesign.Test.csproj", "{3BE32D1F-4F58-4E20-B57F-1ECB73408524}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StrategyPattern", "StrategyPattern", "{F0C2818F-DC16-4883-8439-FE500966D6DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDesign", "StrategyDesign\StrategyDesign.csproj", "{687B2BAF-A98F-4978-BC55-73BB4971EA0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyDesign", "StrategyDesign\StrategyDesign.csproj", "{687B2BAF-A98F-4978-BC55-73BB4971EA0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StategyDesign.Test", "StategyDesign.Test\StategyDesign.Test.csproj", "{A542F0CD-172F-46E8-A7E9-BCD13C78832A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StategyDesign.Test", "StategyDesign.Test\StategyDesign.Test.csproj", "{A542F0CD-172F-46E8-A7E9-BCD13C78832A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IteratorPattern", "IteratorPattern", "{B1B0F0F8-7706-4B04-A6F1-5D439025B4A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorDesign", "IteratorDesign\IteratorDesign.csproj", "{00CCD286-0D51-4240-A9E6-A39044D280E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorDesign.Test", "IteratorDesign.Test\IteratorDesign.Test.csproj", "{5B6E7ABB-A78F-4C71-B80D-DD8212C01EFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -184,6 +190,14 @@ Global
 		{A542F0CD-172F-46E8-A7E9-BCD13C78832A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A542F0CD-172F-46E8-A7E9-BCD13C78832A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A542F0CD-172F-46E8-A7E9-BCD13C78832A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CCD286-0D51-4240-A9E6-A39044D280E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CCD286-0D51-4240-A9E6-A39044D280E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CCD286-0D51-4240-A9E6-A39044D280E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CCD286-0D51-4240-A9E6-A39044D280E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6E7ABB-A78F-4C71-B80D-DD8212C01EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6E7ABB-A78F-4C71-B80D-DD8212C01EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6E7ABB-A78F-4C71-B80D-DD8212C01EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6E7ABB-A78F-4C71-B80D-DD8212C01EFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -213,6 +227,8 @@ Global
 		{3BE32D1F-4F58-4E20-B57F-1ECB73408524} = {DD43AFA7-1412-4BFD-A6C9-87262B32760D}
 		{687B2BAF-A98F-4978-BC55-73BB4971EA0E} = {F0C2818F-DC16-4883-8439-FE500966D6DC}
 		{A542F0CD-172F-46E8-A7E9-BCD13C78832A} = {F0C2818F-DC16-4883-8439-FE500966D6DC}
+		{00CCD286-0D51-4240-A9E6-A39044D280E4} = {B1B0F0F8-7706-4B04-A6F1-5D439025B4A8}
+		{5B6E7ABB-A78F-4C71-B80D-DD8212C01EFD} = {B1B0F0F8-7706-4B04-A6F1-5D439025B4A8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40A0BE0D-B803-419B-9712-5EB4C873FE20}

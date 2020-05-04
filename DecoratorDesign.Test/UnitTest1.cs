@@ -7,7 +7,7 @@ namespace DecoratorDesign.Test
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void SuzukiMake_ShouldReturn_Sedan_SuzukiGetPrice_ShouldReurn_Price()
         {
             ICar car = new Suzuki();
             CarDecorator decorator = new OfferPrice(car);
