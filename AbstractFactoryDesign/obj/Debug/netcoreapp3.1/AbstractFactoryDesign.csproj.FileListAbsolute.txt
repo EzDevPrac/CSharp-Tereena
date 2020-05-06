@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\bin\Debug\netcoreapp3.1\AbstractFactoryDesign.exe
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\bin\Debug\netcoreapp3.1\AbstractFactoryDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\bin\Debug\netcoreapp3.1\AbstractFactoryDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\bin\Debug\netcoreapp3.1\AbstractFactoryDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\bin\Debug\netcoreapp3.1\AbstractFactoryDesign.dll
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\bin\Debug\netcoreapp3.1\AbstractFactoryDesign.pdb
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\obj\Debug\netcoreapp3.1\AbstractFactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\obj\Debug\netcoreapp3.1\AbstractFactoryDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\obj\Debug\netcoreapp3.1\AbstractFactoryDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\obj\Debug\netcoreapp3.1\AbstractFactoryDesign.dll
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\obj\Debug\netcoreapp3.1\AbstractFactoryDesign.pdb
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\obj\Debug\netcoreapp3.1\AbstractFactoryDesign.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\AbstractFactoryDesign\obj\Debug\netcoreapp3.1\AbstractFactoryDesign.csprojAssemblyReference.cache

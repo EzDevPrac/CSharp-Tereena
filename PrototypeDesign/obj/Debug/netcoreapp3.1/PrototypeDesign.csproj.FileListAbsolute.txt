@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.exe
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.dll
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.pdb
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.dll
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.pdb
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.csprojAssemblyReference.cache
