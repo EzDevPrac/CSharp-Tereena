@@ -13,7 +13,7 @@ namespace ObserverDesign.Test
             Observer observer1 = new Observer("Observer 1");
             subject.Subscribe(observer1);
             subject.Subscribe(new Observer("Observer 2"));
-            */
+            subject.Inventory++;*/
             
         }
     }

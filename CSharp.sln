@@ -90,9 +90,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryDesign", "Ab
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrototypePattern", "PrototypePattern", "{63BEEFCE-95F0-4C85-B9A4-6337E8A8F992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesign", "PrototypeDesign\PrototypeDesign.csproj", "{3CE50EF0-0A43-4806-8B5E-5A243D5B3CF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypeDesign", "PrototypeDesign\PrototypeDesign.csproj", "{3CE50EF0-0A43-4806-8B5E-5A243D5B3CF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory.Test", "AbstractFactory.Test\AbstractFactory.Test.csproj", "{49695413-C7BB-44C9-B976-049121C06419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory.Test", "AbstractFactory.Test\AbstractFactory.Test.csproj", "{49695413-C7BB-44C9-B976-049121C06419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesign.Test", "PrototypeDesign.Test\PrototypeDesign.Test.csproj", "{C0F29A32-2DB6-4521-A3DC-8CCAC2E68319}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -220,6 +222,10 @@ Global
 		{49695413-C7BB-44C9-B976-049121C06419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49695413-C7BB-44C9-B976-049121C06419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49695413-C7BB-44C9-B976-049121C06419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F29A32-2DB6-4521-A3DC-8CCAC2E68319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F29A32-2DB6-4521-A3DC-8CCAC2E68319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F29A32-2DB6-4521-A3DC-8CCAC2E68319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F29A32-2DB6-4521-A3DC-8CCAC2E68319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -254,6 +260,7 @@ Global
 		{B6A7E0E2-B4E4-4642-9FC9-654BED70C921} = {FB239E64-3D20-4180-A2FF-5419211CAA1D}
 		{3CE50EF0-0A43-4806-8B5E-5A243D5B3CF8} = {63BEEFCE-95F0-4C85-B9A4-6337E8A8F992}
 		{49695413-C7BB-44C9-B976-049121C06419} = {FB239E64-3D20-4180-A2FF-5419211CAA1D}
+		{C0F29A32-2DB6-4521-A3DC-8CCAC2E68319} = {63BEEFCE-95F0-4C85-B9A4-6337E8A8F992}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40A0BE0D-B803-419B-9712-5EB4C873FE20}
