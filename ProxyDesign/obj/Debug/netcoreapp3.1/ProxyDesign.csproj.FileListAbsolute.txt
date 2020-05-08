@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\bin\Debug\netcoreapp3.1\ProxyDesign.exe
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\bin\Debug\netcoreapp3.1\ProxyDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\bin\Debug\netcoreapp3.1\ProxyDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\bin\Debug\netcoreapp3.1\ProxyDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\bin\Debug\netcoreapp3.1\ProxyDesign.dll
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\bin\Debug\netcoreapp3.1\ProxyDesign.pdb
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\obj\Debug\netcoreapp3.1\ProxyDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\obj\Debug\netcoreapp3.1\ProxyDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\obj\Debug\netcoreapp3.1\ProxyDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\obj\Debug\netcoreapp3.1\ProxyDesign.dll
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\obj\Debug\netcoreapp3.1\ProxyDesign.pdb
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\obj\Debug\netcoreapp3.1\ProxyDesign.genruntimeconfig.cache
+C:\Users\manoj\source\repos\CSharp\ProxyDesign\obj\Debug\netcoreapp3.1\ProxyDesign.csprojAssemblyReference.cache
