@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\bin\Debug\netcoreapp3.1\AdapterDesign.exe
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\bin\Debug\netcoreapp3.1\AdapterDesign.deps.json
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\bin\Debug\netcoreapp3.1\AdapterDesign.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\bin\Debug\netcoreapp3.1\AdapterDesign.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\bin\Debug\netcoreapp3.1\AdapterDesign.dll
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\bin\Debug\netcoreapp3.1\AdapterDesign.pdb
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\obj\Debug\netcoreapp3.1\AdapterDesign.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\obj\Debug\netcoreapp3.1\AdapterDesign.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\obj\Debug\netcoreapp3.1\AdapterDesign.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\obj\Debug\netcoreapp3.1\AdapterDesign.dll
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\obj\Debug\netcoreapp3.1\AdapterDesign.pdb
+C:\Users\manoj\source\repos\CSharp\AdapterDesign\obj\Debug\netcoreapp3.1\AdapterDesign.genruntimeconfig.cache
