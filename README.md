@@ -4,6 +4,82 @@
  
 **DESIGN PATTERNS**
 
+**Proxy Design Pattern**
+* Proxy Design pattern falls under Structural Pattern.
+
+* The proxy design pattern is used to provide a surrogate object, which references to other objects.
+
+* The proxy pattern involves a class, called proxy class, which represents the functionality of another class.
+
+**UML Diagram**
+![proxyUML](https://user-images.githubusercontent.com/39005871/81795164-7194db00-9529-11ea-9cf8-2f1d13b613e3.png)
+
+* The classes, interfaces, and objects in the above UML class diagram are as follows:
+
+**1.Subject**
+>> This is an interface having members that will be implemented by RealSubject and Proxy class.
+
+**2.RealSubject**
+>> This is a class which we want to use more efficiently by using proxy class.
+
+**3.Proxy**
+>> This is a class which holds the instance of RealSubject class and can access RealSubject class members as required.
+
+**Example**
+**Subject Interface**
+```csharp
+public interface IShape
+    {
+        string GetShape();
+    }
+```
+**Real Subject**
+```csharp
+public class RealPolygon : IShape
+    {
+        public void Details()
+        {
+            Console.WriteLine("This is real polygon Class");
+        }
+        public string GetShape()
+        {
+            return "This is polygon shape from real/ actual class";
+        }
+    }
+```
+**Proxy**
+```csharp
+public class ProxyPolygon : IShape
+    {
+        IShape _shape;
+        public void Details()
+        {
+            Console.WriteLine("This is Proxy polygon Class");
+        }
+        public string GetShape()
+        {
+            _shape = new RealPolygon();
+            return _shape.GetShape();
+        }
+    }
+ ```
+ **Entry Point**
+ ```csharp
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            ProxyPolygon proxyClass = new ProxyPolygon();
+            proxyClass.Details();
+            string RealPolygonDetails = proxyClass.GetShape();
+            Console.WriteLine(RealPolygonDetails);
+            Console.ReadLine();
+        }
+    }
+ ```
+ **Reference**
+ https://github.com/EzDevPrac/CSharp-Tereena/tree/master/ProxyDesign
+ 
 **Adapter Design Pattern**
 
 * Adapter pattern falls under Structural Pattern.
