@@ -104,9 +104,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDesign.Test", "Adapt
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProxyPattern", "ProxyPattern", "{FF177322-2467-40E9-B30F-B1C29527C94F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesign", "ProxyDesign\ProxyDesign.csproj", "{6ACB51AE-D73B-4D9E-827A-246D27FE0F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyDesign", "ProxyDesign\ProxyDesign.csproj", "{6ACB51AE-D73B-4D9E-827A-246D27FE0F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesign.Test", "ProxyDesign.Test\ProxyDesign.Test.csproj", "{A802E65F-1468-4BD8-820A-0B1BDFD6B9C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyDesign.Test", "ProxyDesign.Test\ProxyDesign.Test.csproj", "{A802E65F-1468-4BD8-820A-0B1BDFD6B9C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DpendencyInjection", "DpendencyInjection", "{210B5DEF-CE41-4F41-81E3-1B109EC64103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionUsingUnityFramework", "DependencyInjectionUsingUnityFramework\DependencyInjectionUsingUnityFramework.csproj", "{03BB6D6D-FAB3-4286-A963-7D3C051610F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -254,6 +258,10 @@ Global
 		{A802E65F-1468-4BD8-820A-0B1BDFD6B9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A802E65F-1468-4BD8-820A-0B1BDFD6B9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A802E65F-1468-4BD8-820A-0B1BDFD6B9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03BB6D6D-FAB3-4286-A963-7D3C051610F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BB6D6D-FAB3-4286-A963-7D3C051610F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BB6D6D-FAB3-4286-A963-7D3C051610F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BB6D6D-FAB3-4286-A963-7D3C051610F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -293,6 +301,7 @@ Global
 		{5EACEC53-A492-416C-A838-ADABBC433855} = {5E098F25-72CF-456F-8A51-A8F681AFD158}
 		{6ACB51AE-D73B-4D9E-827A-246D27FE0F10} = {FF177322-2467-40E9-B30F-B1C29527C94F}
 		{A802E65F-1468-4BD8-820A-0B1BDFD6B9C1} = {FF177322-2467-40E9-B30F-B1C29527C94F}
+		{03BB6D6D-FAB3-4286-A963-7D3C051610F9} = {210B5DEF-CE41-4F41-81E3-1B109EC64103}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40A0BE0D-B803-419B-9712-5EB4C873FE20}
