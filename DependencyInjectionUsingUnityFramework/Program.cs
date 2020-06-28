@@ -35,9 +35,9 @@ namespace DependencyInjectionUsingUnityFramework
             _objpro.InsetData(); //calling method of DL
         }
     }
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //creating UnityContainer object
             UnityContainer UI = new UnityContainer();

@@ -1,7 +1,119 @@
 [![Build Status](https://dev.azure.com/tereena99/Csharp/_apis/build/status/EzDevPrac.CSharp-Tereena?branchName=master)](https://dev.azure.com/tereena99/Csharp/_build/latest?definitionId=4&branchName=master)
 
 # CsharpConcepts
+
+
+
+**Inversion of Control**
+>> IoC is a design principle which recommends the inversion of different kinds of controls in object-oriented design to achieve loose coupling between application classes.
+
+**Dependency Inversion Principle**
+>> The DIP principle also helps in achieving loose coupling between classes. It is highly recommended to use DIP and IoC together in order to achieve loose coupling.
+
+>> DIP suggests that high-level modules should not depend on low level modules. Both should depend on abstraction.
+
+**Dependency Injection**
+>> Dependency Injection (DI) is a design pattern which implements the IoC principle to invert the creation of dependent objects.
+
+>> we are going to implement Dependency Injection and strategy pattern together to move the dependency object creation completely out of the class.
+
+
+**The Dependency Injection pattern involves 3 types of classes.**
+
+**1.Client Class**
+>> The client class (dependent class) is a class which depends on the service class
+
+**2.Service Class**
+>> The service class (dependency) is a class that provides service to the client class.
+
+**3.Injector Class**
+>> The injector class injects the service class object into the client class.
+
+* The following figure illustrates the relationship between these classes:
+
+![DependencyInjectionUML](https://user-images.githubusercontent.com/39005871/82202911-3414c100-9920-11ea-97ea-0c8854a39f26.png)
+
+* As you can see, the injector class creates an object of the service class, and injects that object to a client object.
+
+**Types of Dependency Injection**
+
+* The injector class injects dependencies broadly in three ways: through a constructor, through a property, or through a method.
+
+**1.Constructor Injection:**
+>> In the constructor injection, the injector supplies the service (dependency) through the client class constructor.
+
+**2.Property Injection:**
+>> In the property injection (aka the Setter Injection), the injector supplies the dependency through a public property of the client class.
+
+**3.Method Injection:**
+>> In this type of injection, the client class implements an interface which declares the method(s) to supply the dependency and the injector uses this interface to supply the dependency to the client class.
+
+**IoC Container**
+>> The IoC container is a framework used to manage automatic dependency injection throughout the application, so that we as programmers do not need to put more time and effort into it.
+
+**Example**
+**IProduct Interface**
+```csharp
+    public interface IProduct
+    {
+        string InsetData();
+    }
+ ```
  
+ **Data Access Layer class implement the interface Iproduct**
+ ```charp
+    public class DL : IProduct
+    {
+        public string InsetData()
+        {
+            string val = "Dependency Injection Injected";
+            Console.WriteLine(val);
+            return val;
+        }
+    }
+```
+**Business acess layer class**
+```csharp
+    public class BL
+    {
+        private IProduct _objpro;
+
+        public BL(IProduct objpro) //injecting DL to BL(constructor)
+        {
+            _objpro = objpro;
+        }
+
+        public void Insert()
+        {
+            _objpro.InsetData(); //calling method of DL
+        }
+    }
+```  
+**Main Class which shows how the dependency injection is done**
+
+```csharp 
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            //creating UnityContainer object
+            UnityContainer UI = new UnityContainer();
+            //UI.RegisterType<BL>();
+            //UI.RegisterType<DL>();
+
+            /* Register a type with specific members to be injected*/
+            UI.RegisterType<IProduct,DL>();
+
+            /*We want to resolve the BL by injecting a DL. That is why I wrote Resolve<BL>*/
+            BL objDL = UI.Resolve<BL>();  //injects DL
+            objDL.Insert(); //BL Method
+
+        }
+    }
+```
+**Reference**
+https://github.com/EzDevPrac/CSharp-Tereena/tree/master/DependencyInjectionUsingUnityFramework
+
 **DESIGN PATTERNS**
 
 **Proxy Design Pattern**

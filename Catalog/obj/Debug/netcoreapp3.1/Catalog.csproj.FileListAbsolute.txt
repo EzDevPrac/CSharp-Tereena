@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\CSharp\Catalog\bin\Debug\netcoreapp3.1\Catalog.exe
+C:\Users\manoj\source\repos\CSharp\Catalog\bin\Debug\netcoreapp3.1\Catalog.deps.json
+C:\Users\manoj\source\repos\CSharp\Catalog\bin\Debug\netcoreapp3.1\Catalog.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\Catalog\bin\Debug\netcoreapp3.1\Catalog.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\Catalog\bin\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\manoj\source\repos\CSharp\Catalog\bin\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\manoj\source\repos\CSharp\Catalog\obj\Debug\netcoreapp3.1\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\Catalog\obj\Debug\netcoreapp3.1\Catalog.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\Catalog\obj\Debug\netcoreapp3.1\Catalog.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\Catalog\obj\Debug\netcoreapp3.1\Catalog.dll
+C:\Users\manoj\source\repos\CSharp\Catalog\obj\Debug\netcoreapp3.1\Catalog.pdb
+C:\Users\manoj\source\repos\CSharp\Catalog\obj\Debug\netcoreapp3.1\Catalog.genruntimeconfig.cache

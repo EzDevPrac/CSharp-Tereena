@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\CSharp\3DPoints\bin\Debug\netcoreapp3.1\3DPoints.exe
+C:\Users\manoj\source\repos\CSharp\3DPoints\bin\Debug\netcoreapp3.1\3DPoints.deps.json
+C:\Users\manoj\source\repos\CSharp\3DPoints\bin\Debug\netcoreapp3.1\3DPoints.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\3DPoints\bin\Debug\netcoreapp3.1\3DPoints.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\3DPoints\bin\Debug\netcoreapp3.1\3DPoints.dll
+C:\Users\manoj\source\repos\CSharp\3DPoints\bin\Debug\netcoreapp3.1\3DPoints.pdb
+C:\Users\manoj\source\repos\CSharp\3DPoints\obj\Debug\netcoreapp3.1\3DPoints.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\3DPoints\obj\Debug\netcoreapp3.1\3DPoints.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\3DPoints\obj\Debug\netcoreapp3.1\3DPoints.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\3DPoints\obj\Debug\netcoreapp3.1\3DPoints.dll
+C:\Users\manoj\source\repos\CSharp\3DPoints\obj\Debug\netcoreapp3.1\3DPoints.pdb
+C:\Users\manoj\source\repos\CSharp\3DPoints\obj\Debug\netcoreapp3.1\3DPoints.genruntimeconfig.cache
