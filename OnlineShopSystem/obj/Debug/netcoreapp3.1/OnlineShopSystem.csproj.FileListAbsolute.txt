@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\bin\Debug\netcoreapp3.1\OnlineShopSystem.exe
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\bin\Debug\netcoreapp3.1\OnlineShopSystem.deps.json
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\bin\Debug\netcoreapp3.1\OnlineShopSystem.runtimeconfig.json
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\bin\Debug\netcoreapp3.1\OnlineShopSystem.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\bin\Debug\netcoreapp3.1\OnlineShopSystem.dll
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\bin\Debug\netcoreapp3.1\OnlineShopSystem.pdb
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\obj\Debug\netcoreapp3.1\OnlineShopSystem.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\obj\Debug\netcoreapp3.1\OnlineShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\obj\Debug\netcoreapp3.1\OnlineShopSystem.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\obj\Debug\netcoreapp3.1\OnlineShopSystem.AssemblyInfo.cs
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\obj\Debug\netcoreapp3.1\OnlineShopSystem.dll
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\obj\Debug\netcoreapp3.1\OnlineShopSystem.pdb
+C:\Users\manoj\source\repos\CSharp\OnlineShopSystem\obj\Debug\netcoreapp3.1\OnlineShopSystem.genruntimeconfig.cache
